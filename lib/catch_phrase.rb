@@ -1,6 +1,6 @@
 
 
-def catch_phrase(phrase,arr)
+def catch_phrase()
   puts phrase
  	
  	  end
